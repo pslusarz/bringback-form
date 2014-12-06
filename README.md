@@ -22,7 +22,7 @@ Please help collectors preserve history for the future generations by sharing so
 
 ## 6. Do you know anything about the enemy soldier to which this weapon was issued (what unit he served in, was he an officer or enlisted)?
 
-## 7. Was this trophy was modified while you were in service (ie. chromed, engraved, or custom grips added), and if so, how were the modifications made?
+## 7. Was this trophy modified while you were in service (ie. chromed, engraved, or custom grips added), and if so, how were the modifications made?
 
 ## 8. Were there any accessories accompanying the trophy (ie. holster, sling, additional magazines)?
 
