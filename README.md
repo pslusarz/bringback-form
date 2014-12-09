@@ -1,7 +1,7 @@
 #Describe your bringback
 ==============
 
-Please help collectors preserve history for the future generations by sharing some details of your war trophy. All your answers are optional. This document may be on public display with the collection and it will accompany the trophy if it changes ownership.
+Please help collectors preserve history for the future generations by sharing some details of your war trophy. All your answers are optional. If you do not feel comfortable discussing something, just skip over to the next question. This document may be on public display with the collection and it will accompany the trophy if it changes ownership.
 
 ###Description (ie. P38 9mm Pistol):```________________```
 ###Serial number: ```_______________________________```
@@ -30,6 +30,8 @@ Please help collectors preserve history for the future generations by sharing so
 
 ## 10. Is there anything else you would like to add, either regarding the trophy or your service?
 
+## 11. Please sign your name and date.
+
 
 
 
@@ -47,7 +49,7 @@ This document may be copied and distributed freely, provided the source and vers
 
 Source: https://github.com/pslusarz/bringback-form/
 
-Version: 0.1/Dec.5, 2014
+Version: 0.2/Dec.8, 2014
 
 
 
