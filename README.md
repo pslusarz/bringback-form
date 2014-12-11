@@ -62,11 +62,11 @@ Thank you for sharing and helping preserve your story for the future generations
 
 
 -----
-This document may be copied and distributed freely, provided the source and version are included.
+This form may be copied and distributed freely, provided the source and version are included.
 
 Source: https://github.com/pslusarz/bringback-form/
 
-Version: 0.2/Dec.8, 2014
+Version: 0.3/Dec.10, 2014
 
 
 
